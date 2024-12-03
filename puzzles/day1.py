@@ -2,7 +2,7 @@ import math
 from collections import Counter
 from pathlib import Path
 
-file_path = Path("../inputs/input1.txt")  # Example for a file in a 'data' folder one level up
+file_path = Path("inputs/input1.txt")
 
 # Initialize two empty lists to store the columns
 column1 = []
